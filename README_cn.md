@@ -13,10 +13,10 @@
 
 | [GitHub仓库地址(主站)](https://github.com/openbpi/crossim)      | [码云仓库地址(镜像)](https://gitee.com/apowner)        | 说明                                                                                      | 备注                                           |
 | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [ospn-connector](https://github.com/openbpi/ospn-connector)             | [ospn-connector](https://gitee.com/apowner/ospnConnector)             | ospn-connector是与其他app交互信息的服务                                 | 使用者如果不想与其他app互通，可不设置connector。       |
-| [ospn-ims](https://github.com/openbpi/ospn-ims)             | [ospn-ims](https://gitee.com/apowner/ospnIMS)             | ospn-ims是IM服务                                 |                            |
-| [crossim-android-sdk](https://github.com/openbpi/crossim-android-sdk) | [crossim-android-sdk](https://gitee.com/apowner/crossim-android-sdk) | Android SDK源码，不带UI                                                           |                                     |
-| [crossim-ios-sdk](https://github.com/openbpi/crossim-ios-sdk) | [crossim-ios-sdk](https://gitee.com/apowner/crossim-android-sdk) | iOS SDK源码，不带UI                                                           |                                     |
+| [ospn-connector](https://github.com/openbpi/ospn-connector)             | [ospn-connector](https://gitee.com/apowner/ospn-connector)             | ospn-connector是与其他app交互信息的服务                                 | 要与其他app互通，就一定要打开ospn-connector服务，需要指定参数ipPeer为邻近节点。       |
+| [ospn-ims](https://github.com/openbpi/ospn-ims)             | [ospn-ims](https://gitee.com/apowner/ospn-ims)             | ospn-ims是IM服务                                 |                            |
+| [crossim-android-sdk](https://github.com/openbpi/crossim-android-sdk) | [crossim-android-sdk](https://gitee.com/apowner/osnsdk-android) | Android SDK源码，不带UI                                                           |                                     |
+| [crossim-ios-sdk](https://github.com/openbpi/crossim-ios-sdk) | [crossim-ios-sdk](https://gitee.com/apowner/osnsdk-ios) | iOS SDK源码，不带UI                                                           |                                     |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
@@ -29,7 +29,7 @@
 ### 使用免费的共享IM服务
 我们为大家提供了部分免费的共享IM服务
 
-节点39.100.147.50
+**节点39.100.147.50**
 
 该节点提供websocket和android、IOS服务
 
@@ -43,7 +43,7 @@
 >"password":
 >}
 
-节点47.92.123.66（该节点）
+**节点47.92.123.66**
 
 该节点采用了账户分离式设计，仅提供Android和IOS使用
 
