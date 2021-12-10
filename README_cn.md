@@ -39,8 +39,8 @@
 命令：
 >{
 >"command":"registerUser",
->"username":
->"password":
+>"username":"username"，
+>"password":"password"
 >}
 
 **节点47.92.123.66**
