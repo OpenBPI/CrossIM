@@ -15,7 +15,7 @@
 | [ospn-ims](https://github.com/openbpi/ospn-ims)             | [ospn-ims](https://gitee.com/apowner/ospnIMS)             | ospn-ims是IM服务                                 |                            |
 | [crossim-android-sdk](https://github.com/openbpi/crossim-android-sdk) | [crossim-android-sdk](https://gitee.com/apowner/crossim-android-sdk) | Android SDK源码，不带UI                                                           |                                     |
 | [crossim-ios-sdk](https://github.com/openbpi/crossim-ios-sdk) | [crossim-ios-sdk](https://gitee.com/apowner/crossim-android-sdk) | iOS SDK源码，不带UI                                                           |                                     |
-| [docs](https://github.com/wildfirechat/docs)                 | [docs](https://gitee.com/wfchat/docs)                 | 野火IM相关文档，包含设计、概念、开发、使用说明，[在线查看](https://docs.wildfirechat.cn/) |                                                |  |
+| [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
 # server
