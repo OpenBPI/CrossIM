@@ -51,11 +51,23 @@
 
 <img src="http://www.openspn.com/groupid.jpg" width = 50% height = 50% />
 
-
-
 ### 目前已有的节点IP列表
 
 #### 体验Demo
+身边大爱app
+下载地址 
+
+圆家家app
+下载地址
+
+跨云社联网app
+下载地址
+
+空蒙app
+下载地址
+
+教育全景地图app
+下载地址
 
 
 #### 应用截图
