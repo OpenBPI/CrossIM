@@ -17,6 +17,9 @@
 | [ospn-ims](https://github.com/openbpi/ospn-ims)             | [ospn-ims](https://gitee.com/apowner/ospn-ims)             | ospn-ims是IM服务                                 |                            |
 | [crossim-android-sdk](https://github.com/openbpi/crossim-android-sdk) | [crossim-android-sdk](https://gitee.com/apowner/osnsdk-android) | Android SDK源码，不带UI                                                           |                                     |
 | [crossim-ios-sdk](https://github.com/openbpi/crossim-ios-sdk) | [crossim-ios-sdk](https://gitee.com/apowner/osnsdk-ios) | iOS SDK源码，不带UI                                                           |                                     |
+| [litapp-demo-java](https://github.com/openbpi/crossim-litapp-java-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-demo) | java版小程序demo                                                           |                                     |
+| [litapp-demo-php](https://github.com/openbpi/crossim-litapp-php-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-php-demo) | php版小程序demo                                                           |                                     |
+| [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
@@ -26,8 +29,13 @@
 2. 其他问题，请到[社联网社区论坛](http://47.92.123.66:8080)进行交流学习
 3. 微信号 cannontech
 
-### 使用免费的共享IM服务
-我们为大家提供了部分免费的共享IM服务
+### 使用共享IM服务
+共享节点是由参与的志愿者提供的。有一部分是免费的，一部分是需要使用者共同均分费用的。
+获得更多的共享IM服务请加微信群
+
+<img src="http://www.openspn.com/groupid.jpg" width = 50% height = 50% />
+
+以下2个节点是免费节点
 
 **节点39.100.147.50**
 
@@ -47,18 +55,14 @@
 
 该节点采用了账户分离式设计，仅提供Android和IOS使用
 
-想获得更多的共享IM服务请加微信群
-
-<img src="http://www.openspn.com/groupid.jpg" width = 50% height = 50% />
 
 ### 目前已有的节点IP列表
 
-#### 体验Demo
+### 体验Demo
 
 <img src="https://pwelfare.com/download/1.png" width = 100% height = 100% />
 身边大爱app
 [下载地址 https://pwelfare.com/download/](https://pwelfare.com/download/)
-
 
 圆家家app
 [下载地址 www.yjj520.com](https://www.yjj520.com) 
