@@ -20,6 +20,8 @@
 | [litapp-demo-java](https://github.com/openbpi/crossim-litapp-java-demo) | [litapp-demo-java](https://gitee.com/apowner/ospn-litapp-demo) | java版小程序demo                                                           |                                     |
 | [litapp-demo-php](https://github.com/openbpi/crossim-litapp-php-demo) | [litapp-demo-php](https://gitee.com/apowner/ospn-litapp-php-demo) | php版小程序demo                                                           |                                     |
 | [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [litapp-demo-net](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
+|   | [crossim-android-demo](https://gitee.com/apowner/crossim-android-demo) | android版demo                                                           | 供使用者参考、具备跨界聊天、跨界群聊、小程序平台功能        |
+|   | [crossim-android-js-demo](https://gitee.com/apowner/crossim-android-demo) | android版demo                                                           | 该demo与crossim-android-demo的区别是，该demo为h5项目量身定制，通过简单配置编译即可生成apk       |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
@@ -65,22 +67,20 @@
 身边大爱app
 
 华为、小米、OPPO、vivo应用市场可下载。
-
 [下载地址 ](https://pwelfare.com/download)
 
 
-<img src="https://www.yjj520.com/assets/images/logo.png" width = 100% height = 100% />
+<img src="https://www.yjj520.com/assets/imges/logo.png" width = 100% height = 100% />
 圆家家app
 
 华为、小米、OPPO、vivo应用市场可下载。
-
 [下载地址 www.yjj520.com](https://www.yjj520.com) 
+
 
 <img src="http://www.openspn.com/tubiao19.png" width = 25% height = 25% />
 跨云社联网app
 
 小米、OPPO、vivo应用市场可下载。
-
 [下载地址 ](http://www.openspn.com/download.html)
 
 
@@ -88,11 +88,10 @@
 教育全景地图app
 
 OPPO、vivo应用市场可下载。
-
 [下载地址 ](http://www.openspn.com/deploy/chewbank_20210920.apk)
 
 
-#### 应用截图
+### 应用截图
 
 <img src="" width = 50% height = 50% />
 
@@ -114,7 +113,6 @@ OPPO、vivo应用市场可下载。
 
 <img src="" width = 50% height = 50% />
 
-## 编译
 
 ## 升级说明
 
