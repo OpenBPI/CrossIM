@@ -31,6 +31,7 @@
 
 ### 使用共享IM服务
 共享节点是由参与的志愿者提供的。有一部分是免费的，一部分是需要使用者共同均分费用的。
+
 获得更多的共享IM服务请加微信群
 
 <img src="http://www.openspn.com/groupid.jpg" width = 50% height = 50% />
@@ -62,17 +63,33 @@
 
 <img src="https://pwelfare.com/download/1.png" width = 25% height = 25% />
 身边大爱app
-[下载地址 https://pwelfare.com/download](https://pwelfare.com/download)
 
+华为、小米、OPPO、vivo应用市场可下载。
+
+[下载地址 ](https://pwelfare.com/download)
+
+
+<img src="https://www.yjj520.com/assets/images/logo.png" width = 100% height = 100% />
 圆家家app
+
+华为、小米、OPPO、vivo应用市场可下载。
+
 [下载地址 www.yjj520.com](https://www.yjj520.com) 
 
 <img src="http://www.openspn.com/tubiao19.png" width = 25% height = 25% />
 跨云社联网app
-[下载地址 http://www.openspn.com/download.html](http://www.openspn.com/download.html)
 
+小米、OPPO、vivo应用市场可下载。
+
+[下载地址 ](http://www.openspn.com/download.html)
+
+
+<img src="http://www.openspn.com/picture/chewlogo.jpg" width = 25% height = 25% />
 教育全景地图app
-下载地址
+
+OPPO、vivo应用市场可下载。
+
+[下载地址 ](http://www.openspn.com/deploy/chewbank_20210920.apk)
 
 
 #### 应用截图
