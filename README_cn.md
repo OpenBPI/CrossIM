@@ -17,9 +17,9 @@
 | [ospn-ims](https://github.com/openbpi/ospn-ims)             | [ospn-ims](https://gitee.com/apowner/ospn-ims)             | ospn-ims是IM服务                                 |                            |
 | [crossim-android-sdk](https://github.com/openbpi/crossim-android-sdk) | [crossim-android-sdk](https://gitee.com/apowner/osnsdk-android) | Android SDK源码，不带UI                                                           |                                     |
 | [crossim-ios-sdk](https://github.com/openbpi/crossim-ios-sdk) | [crossim-ios-sdk](https://gitee.com/apowner/osnsdk-ios) | iOS SDK源码，不带UI                                                           |                                     |
-| [litapp-demo-java](https://github.com/openbpi/crossim-litapp-java-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-demo) | java版小程序demo                                                           |                                     |
-| [litapp-demo-php](https://github.com/openbpi/crossim-litapp-php-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-php-demo) | php版小程序demo                                                           |                                     |
-| [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [crossim-ios-sdk](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
+| [litapp-demo-java](https://github.com/openbpi/crossim-litapp-java-demo) | [litapp-demo-java](https://gitee.com/apowner/ospn-litapp-demo) | java版小程序demo                                                           |                                     |
+| [litapp-demo-php](https://github.com/openbpi/crossim-litapp-php-demo) | [litapp-demo-php](https://gitee.com/apowner/ospn-litapp-php-demo) | php版小程序demo                                                           |                                     |
+| [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [litapp-demo-net](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
