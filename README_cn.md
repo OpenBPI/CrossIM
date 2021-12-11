@@ -1,13 +1,25 @@
 ## 跨云CROSSIM解决方案
 
-跨云CROSSIM是一款采用了“跨生态共享”技术的即时通信解决方案。
+跨云CROSSIM是一款采用了“跨生态共享”技术的即时通信IM解决方案。
+
+跨生态共享技术具备2个特点：
+
+（1） 生态与生态之间的聊天是互通的。无需下载和注册其他生态的账号
+
+（2） 从一个生态（app）进入其他所有的生态（小程序），无需再次注册。
 
 ### 主要功能
 （1）跨界单聊
 
+跨界单聊功能，可以让您的用户与其他生态上的用户直接进行互通的私聊。
+
 （2）跨界群聊
 
+跨界群聊可以让不同生态（app）离的用户在同一个群里聊天。
+
 （3）跨界小程序
+
+跨界小程序的特点是研发一次小程序，上万个生态通用，帮助小微企业解决无法建立程序员生态的难题。
 
 ### 主要包括一下项目：
 
@@ -21,7 +33,7 @@
 | [litapp-demo-php](https://github.com/openbpi/crossim-litapp-php-demo) | [litapp-demo-php](https://gitee.com/apowner/ospn-litapp-php-demo) | php版小程序demo                                                           |                                     |
 | [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [litapp-demo-net](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
 |   | [crossim-android-demo](https://gitee.com/apowner/crossim-android-demo) | android版demo                                                           | 供使用者参考、具备跨界聊天、跨界群聊、小程序平台功能        |
-|   | [crossim-android-js-demo](https://gitee.com/apowner/crossim-android-demo) | android版demo                                                           | 该demo与crossim-android-demo的区别是，该demo为h5项目量身定制，通过简单配置编译即可生成apk       |
+|   | [crossim-android-js-demo](https://gitee.com/apowner/crossim-android-js-demo) | android版demo                                                           | 该demo与crossim-android-demo的区别是，该demo为h5项目量身定制，通过简单配置编译即可生成apk       |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
