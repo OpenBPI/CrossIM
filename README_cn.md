@@ -36,7 +36,7 @@
 | [litapp-demo-net](https://github.com/openbpi/crossim-litapp-dot-net-demo) | [litapp-demo-net](https://gitee.com/apowner/ospn-litapp-dot-net-demo) | .net版小程序demo                                                           |                                     |
 |   | [crossim-android-demo](https://gitee.com/apowner/crossim-android-demo) | android版demo                                                           | 供使用者参考、具备跨界聊天、跨界群聊、小程序平台功能。与ospn-ims、ospn-connector配套使用。        |
 |   | [crossim-android-js-demo](https://gitee.com/apowner/crossim-android-js-demo) | android版demo                                                           | 该demo与crossim-android-demo的区别是，该demo为h5项目量身定制，通过简单配置编译即可生成apk，与ospn-ims、ospn-connector配套使用。       |
-|   | [crossim-share-android](https://gitee.com/apowner/crossim-share-android | android版demo                                                           | 该demo演示了敏感数据的存放以及可切换到任意共享IM节点上使用。与ospn-share-register、ospn-ims-share、ospn-connector配套使用，仅供使用者参考。       |
+|   | [crossim-share-android](https://gitee.com/apowner/crossim-share-android) | android版demo                                                           | 该demo演示了敏感数据的存放以及可切换到任意共享IM节点上使用。与ospn-share-register、ospn-ims-share、ospn-connector配套使用，仅供使用者参考。       |
 | [docs](https://github.com/)                 | [docs](https://gitee.com/)                 | IM相关文档 |                                                |  |
 
 
@@ -53,9 +53,19 @@
 
 <img src="http://www.openspn.com/groupid.jpg" width = 50% height = 50% />
 
-以下2个节点是免费节点
+### 目前可免费使用的共享IM节点
 
-**节点39.100.147.50**
+| 节点IP                                                                             | 备注                                           |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 103.163.46.82  | 共享IM节点    | 
+| 47.92.123.66  | 共享IM节点    | 
+| 39.100.133.144  | 共享IM节点    | 
+| 45.32.90.120  | 共享IM节点(美国)   | 
+| 39.100.147.50  | 托管IM节点，支持android、ios、web   | 
+|                          |                                                |  |
+
+
+**托管节点39.100.147.50**
 
 该节点提供websocket和android、IOS服务
 
@@ -69,12 +79,6 @@
 >"password":"password"
 >}
 
-**节点47.92.123.66**
-
-该节点采用了账户分离式设计，仅提供Android和IOS使用
-
-
-### 目前已有的节点IP列表
 
 ### 体验Demo
 
@@ -133,5 +137,5 @@ OPPO、vivo应用市场可下载。
 
 ## 特别感谢
 
-您的star是我们坚持做“跨生态共享”技术的动力🙏🙏🙏🙏🙏
+您的star是我们坚持做“跨生态共享”技术的动力
 
